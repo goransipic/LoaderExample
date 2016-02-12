@@ -1,4 +1,4 @@
-# LoaderExample orintation Bug
+# Loader unable to retain itself during certain configuration change
 
 A CHILD activity is launched -> ROTATION -> BACK button pressed (Wrong)
 At that time, old loader's onReset is called. 
