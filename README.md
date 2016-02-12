@@ -1,4 +1,4 @@
-# LoaderExample
+# LoaderExample orintation Bug
 
 A CHILD activity is launched -> ROTATION -> BACK button pressed (Wrong)
 At that time, old loader's onReset is called. 
